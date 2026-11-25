@@ -111,8 +111,8 @@ Attendance-Tracker/
 
 ## 📄 Project Documentation
 
-- 📘 [View Project Report](docs/Attendance_Tracker_Project_Report.pdf)
-- 📊 [View Project Presentation (PPT)](docs/Attendance_Tracker_Project_Presentation.pptx)
+- 📘 [View Project Report]([docs/Attendance_Tracker_Project_Report.pdf](https://drive.google.com/file/d/1wkkZiRYBCXh6Ko9gOm4RUE3HU2drL4ll/view?usp=sharing))
+- 📊 [View Project Presentation (PPT)]([docs/Attendance_Tracker_Project_Presentation.pptx](https://docs.google.com/presentation/d/1c8hyPijqCaYHaMt635EluIjfu6RUXkWG/edit?usp=sharing&ouid=100784654982429377050&rtpof=true&sd=true))
 
 ## 🎯 Learning Outcomes
 
