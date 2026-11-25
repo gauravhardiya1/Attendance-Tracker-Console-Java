@@ -1,12 +1,17 @@
 # 🎓 Attendance Tracker – DSA Project
 
+## 📚 Project Documents
+
+- 📘 **[View Project Report (PDF)](https://drive.google.com/file/d/1wkkZiRYBCXh6Ko9gOm4RUE3HU2drL4ll/view?usp=sharing)**
+- 📊 **[View Project Presentation (PPT)](https://docs.google.com/presentation/d/1c8hyPijqCaYHaMt635EluIjfu6RUXkWG/edit?usp=sharing&ouid=100784654982429377050&rtpof=true&sd=true)**
+
+---
+
 A Java-based Attendance Tracker designed to manage student attendance efficiently using Data Structures and Algorithms.
 
 ## 📌 Project Overview
 
 The Attendance Tracker is a menu-driven Java application that helps maintain student records, mark daily attendance, search students, calculate attendance percentages, and sort students based on their attendance performance.
-
-The project demonstrates the practical implementation of DSA concepts in a real-world student attendance management system.
 
 ## 🚀 Features
 
@@ -44,8 +49,8 @@ The project demonstrates the practical implementation of DSA concepts in a real-
 | Student Lookup (HashMap) | O(1) Average |
 | Attendance Update | O(1) Average |
 | Percentage Calculation | O(D) per student |
-| Sorting | O(N log N), as specified in project report |
-| Data Loading | O(N × D) |
+| Sorting | Refer to the sorting algorithm implemented in the source code |
+| Data Loading and Saving | Depends on the number of stored records |
 
 Where:
 - N = Number of students
@@ -66,9 +71,7 @@ Where:
    ```
 
 2. Open the project folder in VS Code.
-
-3. Navigate to the Java source file directory.
-
+3. Open the terminal in the folder containing `Main.java`.
 4. Compile the program:
 
    ```bash
@@ -83,12 +86,9 @@ Where:
 
 ## 📊 Attendance Calculation
 
-The attendance percentage is calculated using:
-
 **Attendance Percentage = (Present Days / Recorded Days) × 100**
 
 Example:
-
 - Present Days = 8
 - Recorded Days = 10
 - Attendance Percentage = 80%
@@ -100,19 +100,8 @@ Attendance-Tracker/
 │
 ├── Main.java
 ├── attendance.txt
-├── README.md
-│
-└── docs/
-    ├── Attendance_Tracker_Project_Report.pdf
-    └── Attendance_Tracker_Project_Presentation.pptx
+└── README.md
 ```
-
-*Note: Keep the report and presentation inside the docs folder using the filenames shown above, or update the links below to match your actual filenames.*
-
-## 📄 Project Documentation
-
-- 📘 [View Project Report]([docs/Attendance_Tracker_Project_Report.pdf](https://drive.google.com/file/d/1wkkZiRYBCXh6Ko9gOm4RUE3HU2drL4ll/view?usp=sharing))
-- 📊 [View Project Presentation (PPT)]([docs/Attendance_Tracker_Project_Presentation.pptx](https://docs.google.com/presentation/d/1c8hyPijqCaYHaMt635EluIjfu6RUXkWG/edit?usp=sharing&ouid=100784654982429377050&rtpof=true&sd=true))
 
 ## 🎯 Learning Outcomes
 
@@ -124,14 +113,14 @@ Attendance-Tracker/
 
 ## 👨‍💻 Author
 
-**Gaurav Hardiya**
-
-B.Tech – Computer Science & Engineering (AI & ML)
-
-Rungta International Skills University
+**Gaurav Hardiya**  
+B.Tech – Computer Science & Engineering (AI & ML)  
+Rungta International Skills University, Bhilai
 
 ## ⭐ Acknowledgement
 
 This project was developed as part of the Data Structures and Algorithms (DSA) coursework.
+
+If you find this project useful, consider giving it a ⭐ on GitHub!
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
